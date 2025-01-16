@@ -1,10 +1,3 @@
-# Time-Series-Forecasting-1DCNN
-Time-Series-Forecasting
- GitHub repository:
-
-markdown
-Copy
-Edit
 # Acoustic Doppler Velocity Log (ADVL) Time Series Forecasting
 
 This repository contains Python implementations for analyzing and forecasting acoustic Doppler velocity log (ADVL) data. The data comprises signals from 4 beams, used for guidance and path-following, with the additional challenge of detecting fish interference. The presence of fish is indicated by deviations in peak values, which typically range between 3.5–4 meters in normal conditions.
@@ -27,6 +20,8 @@ Clone the repository and install the required dependencies.
 ```bash
 git clone https://github.com/<your-username>/advl-forecasting.git
 cd advl-forecasting
+
+
 Install Dependencies
 Ensure you have Python 3.7+ installed. Install the required libraries using pip.
 
@@ -88,7 +83,7 @@ Contact
 For questions or suggestions, please feel free to reach out:
 
 Author: Your Name
-Email: your.email@example.com
+Email: waleed.ntnu@gmail.com
 vbnet
 Copy
 Edit
